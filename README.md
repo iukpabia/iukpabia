@@ -1,6 +1,7 @@
 <h1>Hi, I'm Irene <br/><a href="https://github.com/iukpabia">Devops Engineer</a>, <a href="https://www.linkedin.com/in/ireneukpabia/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/iukpabia">Project Manager</a></h1>
 
 <h2>👨‍💻 Devops  Projects:</h2>
+- <b>AWS CICD Website deployment</b>
 - [AWS CICD Website deployment](https://github.com/iukpabia/AWS-CI-CD-Website-Deployment) 
 
 
