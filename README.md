@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Devops  Projects:</h2>
 - <b>AWS CICD Website deployment</b>
-- [AWS CICD Website deployment](https://github.com/iukpabia/AWS-CI-CD-Website-Deployment) 
+(https://github.com/iukpabia/AWS-CI-CD-Website-Deployment) 
 
 
  
