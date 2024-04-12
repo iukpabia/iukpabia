@@ -1,9 +1,14 @@
 <h1>Hi, I'm Irene <br/><a href="https://github.com/iukpabia">Devops Engineer</a>, <a href="https://www.linkedin.com/in/ireneukpabia/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/iukpabia">Project Manager</a></h1>
 
 <h2>👨‍💻 Devops  Projects:</h2>
-- <b>AWS CICD Website deployment</b>
-(https://github.com/iukpabia/AWS-CI-CD-Website-Deployment) 
 
+- <b>AWS CICD Website deployment
+(https://github.com/iukpabia/AWS-CI-CD-Website-Deployment)</b>
+
+- <b>AKS Cluster application deployment with ACR, CICD using Jenkins
+(https://github.com/iukpabia/azure-voting-app-redis)</b>
+
+- <b>Diskpart</b>
 
  
 
