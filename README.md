@@ -8,7 +8,7 @@
 - <b>AKS Cluster application deployment with ACR, CICD using Jenkins
 (https://github.com/iukpabia/azure-voting-app-redis)</b>
 
-- <b>Diskpart</b>
+- <b>Terraform Projects (https://github.com/iukpabia/Terraform-Projects)</b>
 
  
 
