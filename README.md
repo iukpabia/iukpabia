@@ -10,6 +10,8 @@
 
 - <b>Terraform Projects (https://github.com/iukpabia/Terraform-Projects)</b>
 
+- <b>AWS-CICD-with-Fargate-ECS-ECR-Docker (https://github.com/iukpabia/AWS-CICD-with-Fargate-ECS-ECR-Docker)</b>
+
  
 
 <h2>📺 Popular YouTube Videos</h2>
