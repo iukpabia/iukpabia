@@ -12,6 +12,8 @@
 
 - <b>AWS-CICD-with-Fargate-ECS-ECR-Docker (https://github.com/iukpabia/AWS-CICD-with-Fargate-ECS-ECR-Docker)</b>
 
+- <b>Windows Group-policy-GPO-automation-deployment (https://github.com/iukpabia/Group-policy-GPO-automation-deployment)</b>
+
  
 
 <h2>📺 Popular YouTube Videos</h2>
